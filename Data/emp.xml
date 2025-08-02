@@ -1,0 +1,9 @@
+<employees>
+  <employee>
+    <emp_id>101</emp_id>
+    <name>Alice</name>
+    <dept>HR</dept>
+    <salary>50000</salary>
+    <doj>2018-01-15T00:00:00.000Z</doj>
+  </employee>
+</employees>

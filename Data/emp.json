@@ -1,0 +1,12 @@
+[
+    {"emp_id": 101, "name": "Alice", "dept": "HR", "salary": 50000, "doj": "2018-01-15"},
+    {"emp_id": 102, "name": "Bob", "dept": "IT", "salary": 60000, "doj": "2019-03-10"},
+    {"emp_id": 103, "name": "Charlie", "dept": "Finance", "salary": 55000, "doj": "2020-07-22"},
+    {"emp_id": 104, "name": "David", "dept": "HR", "salary": 52000, "doj": "2017-06-30"},
+    {"emp_id": 105, "name": "Eva", "dept": "IT", "salary": 62000, "doj": "2018-11-05"},
+    {"emp_id": 106, "name": "Frank", "dept": "Finance", "salary": 58000, "doj": "2019-01-19"},
+    {"emp_id": 107, "name": "Grace", "dept": "Marketing", "salary": 53000, "doj": "2021-04-23"},
+    {"emp_id": 108, "name": "Henry", "dept": "IT", "salary": 61000, "doj": "2022-02-14"},
+    {"emp_id": 109, "name": "Isabel", "dept": "HR", "salary": 50000, "doj": "2020-12-11"},
+    {"emp_id": 110, "name": "Jack", "dept": "Marketing", "salary": 54000, "doj": "2016-09-27"}
+]
